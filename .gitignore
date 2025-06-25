@@ -12,6 +12,10 @@ venv/
 .venv/
 env/
 .env
+.env
+.env.*
+.cache/
+
 
 # Distribution / packaging
 build/
